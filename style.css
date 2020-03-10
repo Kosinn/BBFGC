@@ -1,11 +1,4 @@
-.column {
-  float: left;
-  width: 50%;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/612027895396827342/679386603671781432/makulaudur.jpg");
+  background-color: #cccccc;
+ }
